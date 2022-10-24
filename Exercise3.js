@@ -11,6 +11,9 @@ let thetimeofday = "afternoon"
 displayGreeting(thename, timeOfDay);
 
 
+displayGreeting("Safat", "afternoon");
+
+
 //--------------
 
 function displayNumber(number){
